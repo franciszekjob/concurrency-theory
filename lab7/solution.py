@@ -139,6 +139,7 @@ if __name__ == "__main__":
     test_cases = (
         ("input.txt", "output.txt"),
         ("input2.txt", "output2.txt"),
+        ("input3.txt", "output3.txt"),
     )
 
     for input_file, output_file in test_cases:
